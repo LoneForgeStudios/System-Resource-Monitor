@@ -1,0 +1,5 @@
+psutil>=5.8.0
+requests>=2.25.1
+PyYAML>=5.4.1
+python-telegram-bot>=20.0
+python-dotenv>=0.15.0
